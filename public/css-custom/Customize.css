@@ -1,0 +1,118 @@
+.about_aside{
+	
+	padding:10px;
+	margin-top:20px;
+	
+}
+
+.guides{
+	
+	margin-top:15px;
+	margin-bottom:15px;
+	padding:20px;
+	border:1px solid;
+	border-color:gray;
+	border-radius:10px;
+}
+
+
+.notification{
+	
+	padding:10px;	
+	border-bottom:2px solid;
+	border-color:gray;
+}
+
+.Clinics-Map{
+	
+	
+	padding:15px;
+	border-radius:10px;
+	margin:auto;	
+	background-color:rgb(253,253,253);
+}
+
+
+.Clinics-Map img{
+	
+	padding:15px;
+	width:100%;
+	border-radius:10px;
+	
+	
+}
+
+
+.clinic-appointment-btn{
+	
+	
+	margin-top:10px;
+
+}
+
+
+.profile-information{
+	
+	margin-bottom:15px;
+	margin-top:15px;
+	
+}
+
+.delelte-post-btn{
+	
+	margin-top:20px;
+	
+	
+}
+
+.clinic-info{
+	
+	margin-top:100px;
+	
+	
+	
+}
+
+
+.table-custom{
+	
+	
+	 width:90%;
+	 margin:auto;
+	 margin-top:15px;
+	 margin-bottom:15px;
+	
+	
+}
+
+.table-custom tr{
+	
+	border-bottom:1px solid gray;
+	height:80px;
+}
+
+
+
+.nav-link-c{
+	
+	text-decoration:none;
+	margin-left:15px;
+	
+	
+	color:white;
+	
+	
+	
+}
+
+
+.nav-link-c :hover{
+	
+	text-decoration:none;
+	margin-left:15px;
+	border-bottom:1px solid white;
+	color:white;
+	
+	
+	
+}
